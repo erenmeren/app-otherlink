@@ -1,0 +1,10 @@
+node_modules
+.next
+package-lock.json
+.env.*.local
+.env*.local
+target
+next-env.d.ts
+yarn.lock
+public
+out
